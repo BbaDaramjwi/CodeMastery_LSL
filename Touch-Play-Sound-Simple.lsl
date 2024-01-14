@@ -1,4 +1,4 @@
-/* Touch-Play-Sound
+/* Touch-Play-Sound-Simple
     This simple script plays a sound when it is clicked.
         1. place an editable object in the world
         2. activate the build mode
