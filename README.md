@@ -3,7 +3,7 @@
 <img align="left" height="300" src="https://avatars.githubusercontent.com/u/149151213?s=200&v=4"/>
 
 <h4 align="left">
-This is where I document and store my Java coding exercises
+This is where I document and store my LSL coding exercises
 <br> as part of my language learning journey.
 
 <br> In this repository, you'll find a collection of LSL exercises and projects
